@@ -1,4 +1,4 @@
-Subway Surfers
+# Subway Surfers
 
 1. Controls:
 	- Spacebar to jump
